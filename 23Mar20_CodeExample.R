@@ -41,3 +41,6 @@ y <- c(2,8,16,24)
 # II. Produce a plot of the data set
 
 plot(x,y, pch=15)
+
+x<- c(1,4,8,12) y<-x^2 #a more streamlined way of creating a data set
+
